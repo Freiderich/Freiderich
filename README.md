@@ -22,3 +22,7 @@
  <li>🎨 Self-studying arts and making animations when im not programming</li>
  <li>💻 Passionate about building intuitive and responsive web applications using modern tech stacks</li> 
 </p>
+
+<div>
+<H1>Tech Stacks ⚙</H1>   
+</div>
