@@ -18,5 +18,7 @@
 <div style="clear: both;"></div>
 <H1>About me</H1>
 <p>
- <li>A 4th year Computer Engineering student in Holy Angel University </li> 
+ <li>🎓 A 4th year Computer Engineering student in Holy Angel University </li> 
+ <li>🎨 Self-studying arts and making animations when im not programming</li>
+ <li>💻 Passionate about building intuitive and responsive web applications using modern tech stacks</li> 
 </p>
