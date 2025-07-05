@@ -2,15 +2,18 @@
     <p>
       Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"
     </p>
-      <p>
-       🎉 Welcome to my little corner of GitHub! <br><br>
-        Dive in to see what I’ve been building, tinkering with, or just totally geeking out over. <br>
-        Feel free to explore, click, fork, or just vibe with the energy. <br>
-        There’s always something new brewing here. ☕💻
+      <p><br>
+  🎉 <strong>Welcome to my little corner of GitHub!</strong> <br>
+
+  🚀 Dive in to see what I’ve been <strong>building</strong>, <strong>tinkering with</strong>, or just totally <em>geeking out</em> over. <br>
+
+  🔍 Feel free to <strong>explore</strong>, ⭐ star, 🍴 fork, or just vibe with the energy. <br>
+
+  ☕💻 There’s always something <em>new brewing</em> here — stay curious!
       </p>
 
 <!-- About me -->
 <div style="clear: both;"></div>
-<br><br><br><br><br><br><br>
+<br>
 <div style="clear: both;"></div>
 <H1>About me</H1>
