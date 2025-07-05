@@ -1,5 +1,5 @@
 <div id ="header" align="left">
-<img src= "" width = "100"/>
+<img src= "https://github.com/Freiderich/Freiderich/blob/main/IMG_20250705_163833.jpg" width="200" height="200"/>
 </div>
 
 <h1 align="center">
