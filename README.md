@@ -14,7 +14,7 @@
 
 <!-- About me -->
 <div style="clear: both;"></div>
-<br>
+<br><br>
 <div style="clear: both;"></div>
 <H1>About me 🧑</H1>
 <p>
