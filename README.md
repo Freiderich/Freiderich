@@ -44,10 +44,11 @@
 <H1>Most Used Languages 📊</H1>
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freiderich&layout=compact&theme=tokyonight"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Freiderich&theme=tokyonight"
+    alt="Balanced Languages"
   />
 </p>
+
 
 
 
