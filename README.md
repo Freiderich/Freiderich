@@ -40,3 +40,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" style="height:28px;" alt="Vite" />
 </p>
 </div>
+
+<H1>Most Used Languages 📊</H1>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freiderich&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
