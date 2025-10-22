@@ -41,12 +41,13 @@
 </p>
 </div>
 
-<H1>Portfolio Languages 📊</H1>
+<H1>Most Used Languages 📊</H1>
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freiderich&layout=compact&theme=tokyonight&repo=portfolio"
-    alt="Portfolio Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freiderich&layout=compact&theme=tokyonight"
+    alt="Top Languages"
   />
 </p>
+
 
 
