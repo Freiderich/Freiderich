@@ -46,6 +46,5 @@
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freiderich&layout=compact&theme=tokyonight&exclude_repo=NAME_OF_YOUR_BIG_PYTHON_REPO"
 />
-
 </p>
 
