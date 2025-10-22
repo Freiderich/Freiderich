@@ -43,6 +43,6 @@
 
 <H1>Most Used Languages 📊</H1>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freiderich&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freiderich&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
