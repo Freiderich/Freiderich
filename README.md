@@ -44,6 +44,7 @@
 <p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freiderich&layout=compact&theme=tokyonight&exclude_repo=big-python-repo1,big-python-repo2" 
-    alt="Top Languages
+    alt="Top Languages" 
   />
 </p>
+
