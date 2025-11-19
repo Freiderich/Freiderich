@@ -2,30 +2,24 @@
 <p>
   Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 </p>
-<p><br>
+
+<p>
 🎉 <strong>Welcome to my little corner of GitHub!</strong> <br>
-
 🚀 Dive in to see what I’ve been <strong>building</strong>, <strong>tinkering with</strong>, or just totally <em>geeking out</em> over. <br>
-
 🔍 Feel free to <strong>explore</strong>, ⭐ star, 🍴 fork, or just vibe with the energy. <br>
-
 ☕💻 There’s always something <em>new brewing</em> here — stay curious!
 </p>
 
-<!-- About me -->
-<div style="clear: both;"></div>
-<br><br>
-<div style="clear: both;"></div>
-<H1>About me 🧑</H1>
-<p>
-  <li>🎓 A 4th year Computer Engineering student in Holy Angel University </li> 
-  <li>🎨 Self-studying arts and making animations when I'm not programming</li>
-  <li>💻 Passionate about building intuitive and responsive web applications using modern tech stacks</li> 
-</p>
+---
 
-<!-- Tech Stacks -->
-<div>
-<H1>Tech Stacks ⚙</H1>
+## About Me 🧑
+- 🎓 4th year Computer Engineering student at Holy Angel University  
+- 🎨 Self-studying arts and making animations when not programming  
+- 💻 Passionate about building intuitive and responsive web applications  
+
+---
+
+## Tech Stacks ⚙
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="height:35px;" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:28px;" alt="HTML5" />
@@ -37,10 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:28px;" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" style="height:28px;" alt="Vite" />
 </p>
-</div>
 
-<!-- Most Used Languages -->
-<H1>Most Used Languages 📊</H1>
+---
+
+## Most Used Languages 📊
 <p align="left">
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freiderich&layout=compact&theme=tokyonight&exclude_repo=big-python-repo"
@@ -48,5 +42,9 @@
 />
 </p>
 
+---
 
-</div>
+## GitHub Stats 📈
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Freiderich&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
