@@ -36,15 +36,5 @@
 
 ## Most Used Languages 📊
 <p align="left">
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freiderich&layout=compact&theme=tokyonight&exclude_repo=big-python-repo"
-  alt="Top Languages"
-/>
-</p>
-
----
-
-## GitHub Stats 📈
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Freiderich&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <strong>Python</strong> 🐍 &nbsp; | &nbsp; <strong>JavaScript</strong> ⚡ &nbsp; | &nbsp; <strong>C++</strong> 💻 &nbsp; | &nbsp; <strong>HTML & CSS</strong> 🌐  
 </p>
