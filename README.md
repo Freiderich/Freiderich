@@ -32,6 +32,12 @@ Here are some pieces I’ve created in my free time:
   <img src="https://raw.githubusercontent.com/Freiderich/Freiderich/main/images/husk.jpg" width="200" style="margin:10px">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Freiderich/Freiderich/main/images/Cyn.jpg" width="200" style="margin:10px">
+  <img src="https://raw.githubusercontent.com/Freiderich/Freiderich/main/images/Pitou.jpg" width="200" style="margin:10px">
+</p>
+
+
 
 ---
 
