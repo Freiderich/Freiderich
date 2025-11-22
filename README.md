@@ -78,13 +78,14 @@ Here’s what I’ve been working with lately:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Freiderich&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
-## 🔥 Most Used Languages (Badges)
+## 🔥 Most Used Languages
 
-![Python](https://img.shields.io/badge/Python-30%25-FFD43B?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-20%25-FFD43B?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-20%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-15%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-10%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-15%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-10%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
