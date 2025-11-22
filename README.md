@@ -83,8 +83,6 @@ Here’s what I’ve been working with lately:
 <!-- Top languages card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Freiderich&layout=compact&theme=dark&count_private=true&langs_count=10)
 
-
-
 ---
 
 ## ✨ Fun & Dynamic Touch
