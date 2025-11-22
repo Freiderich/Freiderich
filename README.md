@@ -75,7 +75,8 @@ Here’s what I’ve been working with lately:
 ## 📊 GitHub Stats
 
 <!-- GitHub activity stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Freiderich&show_icons=true&theme=dark&count_private=true)](https://camo.githubusercontent.com/1cc2c9ac12495eb917f5333d376e6f3c203c5c532ea081cff12274c666bfa1e2/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d73686164796b6b6b267468656d653d6461726b26686964655f626f726465723d66616c7365)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Freiderich&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 ## 🔥 Most Used Languages
 
