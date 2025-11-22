@@ -1,43 +1,46 @@
 <img src="https://github.com/Freiderich/Freiderich/blob/main/images/IMG_20250705_163833.jpg" width="200" height="200" align="left">
-<p>
-  Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-</p>
 
-<p>
-🎉 <strong>Welcome to my little corner of GitHub!</strong> <br>
-🚀 Dive in to see what I’ve been <strong>building</strong>, <strong>tinkering with</strong>, or just totally <em>geeking out</em> over. <br>
-🔍 Feel free to <strong>explore</strong>, ⭐ star, 🍴 fork, or just vibe with the energy. <br>
-☕💻 There’s always something <em>new brewing</em> here — stay curious!
-</p>
+# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+
+🎉 **Welcome to my little corner of GitHub!**  
+🚀 Dive in to see what I’ve been **building**, **tinkering with**, or just geeking out over.  
+🔍 Feel free to **explore**, ⭐ star, 🍴 fork, or just vibe with the energy.  
+☕💻 There’s always something *new brewing* here — stay curious!  
 
 ---
 
 ## About Me 🧑
-- 🎓 4th year Computer Engineering student at Holy Angel University  
-- 🎨 Self-studying arts and making animations when not programming  
-- 💻 Passionate about building intuitive and responsive web applications  
+- 🎓 4th year Computer Engineering student at **Holy Angel University**  
+- 🎨 Self-studying **digital arts** and making **animations** when not coding  
+- 💻 Passionate about building **intuitive & responsive web applications**  
+- 🌟 Always exploring new **tech stacks, frameworks, and languages**  
 
 ---
 
-## Tech Stacks ⚙
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="height:35px;" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:28px;" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:28px;" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:28px;" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:28px;" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="height:28px;" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:28px;" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:28px;" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" style="height:28px;" alt="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height:28px;" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:28px;" alt="MySQL" />
-</p>
+## 💡 Tech & Tools I Use
+Here’s what I’ve been working with lately:  
 
+**Backend / Databases:** PHP 🐘, MySQL 🗄️, Django 🟢, Node.js 🌐  
+**Frontend / Styling:** HTML5 🌐, CSS3 🎨, JavaScript ⚡, Vite 🛠️  
+**Programming Languages:** Python 🐍, C++ 💻, SQL 🗃️  
 
 ---
 
-## Most Used Languages 📊
-<p align="left">
-  <strong>Python</strong> 🐍 &nbsp; | &nbsp; <strong>JavaScript</strong> ⚡ &nbsp; | &nbsp; <strong>C++</strong> 💻 &nbsp; | &nbsp; <strong>HTML & CSS</strong> 🌐  
+## 🔥 Most Used Languages
+Python 🐍 | JavaScript ⚡ | C++ 💻 | PHP 🐘 | SQL 🗄️ | HTML & CSS 🌐  
+
+---
+
+## ✨ Fun & Dynamic Touch
+<p>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="50">  
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50">  
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="50">
 </p>
+
+💬 Always experimenting, learning, and creating.  
+💡 **Tip:** Scroll through my repos — you might find a project that inspires you!  
+
+---
+
+*Made with ❤️ by Freiderich Peralta*
