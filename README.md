@@ -17,6 +17,24 @@
 
 ---
 
+## My Art 🎨
+
+Here are some pieces I’ve created in my free time:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Freiderich/Freiderich/main/images/invincible.jpg" width="200" style="margin:10px">
+  <img src="https://raw.githubusercontent.com/Freiderich/Freiderich/main/images/Lucifer.jpg" width="200" style="margin:10px">
+  <img src="https://raw.githubusercontent.com/Freiderich/Freiderich/main/images/Serial%20N.jpg" width="200" style="margin:10px">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Freiderich/Freiderich/main/images/alastor.jpg" width="200" style="margin:10px">
+  <img src="https://raw.githubusercontent.com/Freiderich/Freiderich/main/images/husk.jpg" width="200" style="margin:10px">
+</p>
+
+
+---
+
 ## 💡 Tech & Tools I Use
 Here’s what I’ve been working with lately:  
 
