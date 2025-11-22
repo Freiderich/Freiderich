@@ -81,7 +81,8 @@ Here’s what I’ve been working with lately:
 ## 🔥 Most Used Languages
 
 <!-- Top languages card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Freiderich&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Freiderich&layout=compact&theme=dark&count_private=true)
+
 
 ---
 
