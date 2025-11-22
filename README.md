@@ -72,8 +72,15 @@ Here’s what I’ve been working with lately:
 
 ---
 
+## 📊 GitHub Stats
+
+<!-- GitHub activity stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Freiderich&show_icons=true&theme=dark&count_private=true)
+
 ## 🔥 Most Used Languages
-Python 🐍 | JavaScript ⚡ | C++ 💻 | PHP 🐘 | SQL 🗄️ | HTML & CSS 🌐  
+
+<!-- Top languages card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Freiderich&layout=compact&theme=dark)
 
 ---
 
