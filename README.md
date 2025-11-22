@@ -78,10 +78,10 @@ Here’s what I’ve been working with lately:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Freiderich&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
-## 🔥 Most Used Languages
+## 🔥 Most Used Languages (Pie Chart)
 
-<!-- Top languages card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Freiderich&layout=compact&theme=dark&count_private=true&langs_count=10)
+![Language Usage Chart](./images/languages.png)
+
 
 ---
 
