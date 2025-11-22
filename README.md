@@ -45,8 +45,8 @@ Here are some pieces I’ve created in my free time:
 
 Here’s what I’ve been working with lately:
 
+### Backend / Databases
 <p align="left">
-  <!-- Backend / Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" height="40" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" height="40" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" height="40" style="margin:5px"/>
@@ -54,16 +54,16 @@ Here’s what I’ve been working with lately:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" height="40" style="margin:5px"/>
 </p>
 
+### Frontend / Styling
 <p align="left">
-  <!-- Frontend / Styling -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="40" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="40" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="40" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" title="Vite" height="40" style="margin:5px"/>
 </p>
 
+### Programming Languages
 <p align="left">
-  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="40" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" height="40" style="margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL" height="40" style="margin:5px"/>
