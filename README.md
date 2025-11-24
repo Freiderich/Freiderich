@@ -45,11 +45,12 @@ Here are some pieces I’ve created in my free time:
 
 Here’s what I’ve been working with lately:
 
-### Backend / Databases
+### Backend / Databases / Deployment
 
-| PHP | MySQL | Django | Node.js | React |
-| --- | --- | --- | --- | --- |
-| ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
+| PHP | MySQL | Django | Node.js | React | Vercel |
+| --- | --- | --- | --- | --- | --- |
+| ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Vercel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg) |
+
 
 ---
 
