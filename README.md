@@ -56,9 +56,9 @@ Here’s what I’ve been working with lately:
 
 ### Frontend / Styling
 
-| HTML5 | CSS3 | JavaScript | Vite |
-| --- | --- | --- | --- |
-| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![Vite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg) |
+| HTML5 | CSS3 | JavaScript | Vite | Tailwind CSS |
+| --- | --- | --- | --- | --- |
+| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![Vite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg) | ![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg) |
 
 ---
 
