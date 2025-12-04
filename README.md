@@ -104,5 +104,3 @@ Here’s what I’ve been working with lately:
 ---
 
 *Made with ❤️ by Freiderich Peralta*
-
-Thanks for Viewing this Account
