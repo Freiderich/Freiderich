@@ -39,11 +39,29 @@
 
 ---
 
-# 💡 Tech & Tools
+# 💡 Tech & Tools I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,python,cpp,js,html,css,react,tailwind,django,nodejs,vite,vercel" />
-</p>
+## 🖥️ Backend / Databases / Deployment
+
+| PHP | MySQL | Django | Node.js | React | Vercel |
+| --- | --- | --- | --- | --- | --- |
+| ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Vercel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg) |
+
+---
+
+## 🎨 Frontend / Styling
+
+| HTML5 | CSS3 | JavaScript | Vite | Tailwind CSS |
+| --- | --- | --- | --- | --- |
+| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![Vite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg) | <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-dark.svg" width="40"> |
+
+---
+
+## 🧑‍💻 Programming Languages
+
+| Python | C++ | SQL |
+| --- | --- | --- |
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg) |
 
 ---
 
@@ -78,12 +96,4 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="45">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="45">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="45">
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-```md
-![snake gif](https://github.com/Freiderich/Freiderich/blob/output/github-contribution-grid-snake.gif)
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" wid
