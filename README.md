@@ -67,26 +67,32 @@
 
 ---
 
-# 🧑‍💻 Programming Languages
+## 🧑‍💻 Programming Languages
 
-## 🔵 **High-Level Languages**
-| Python | PHP | JavaScript |
-| --- | --- | --- |
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) | ![JS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) |
+<p align="center">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/main/Assets/python.gif" width="70" />
+
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/sammy9707/sammy9707/main/assets/cpp.gif" width="70" />
+
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/sammy9707/sammy9707/main/assets/database.gif" width="70" />
+</p>
 
 ---
 
-## 🟣 **Low-Level / Systems Programming**
-| C++ |
-| --- |
-| ![CPP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) |
+### 🔹 Python  
+Highly versatile for AI, automation, backend, and tooling.
 
----
+### 🔹 C++  
+Fast, powerful language for systems programming and performance-critical apps.
 
-## 🟢 **Query & Data Languages**
-| SQL |
-| --- |
-| ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg) |
+### 🔹 SQL  
+Used for database querying, management, and data analysis.
 
 ---
 
