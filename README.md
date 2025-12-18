@@ -132,5 +132,3 @@ Used for database querying, management, and data analysis.
 
 ---
 
-emjoy
-
