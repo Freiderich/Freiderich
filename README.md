@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E1FF,100:FF00E0&height=200&section=header&text=Freiderich%20Peralta&fontSize=45&fontColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Freiderich;Bachelor+of+Science+in+Computer+Engineering+Graduate;Developer+%7C+Artist+%7C+Creator;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Freiderich;BS+Computer+Engineering+|+Holy+Angel+University;Developer+%7C+Artist+%7C+Creator;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 ---
 
@@ -12,10 +12,11 @@
 
 # 👋 About Me
 
-- 🎓 BS Computer Engineering student from **Holy Angel University**  
-- 🎨 Self-studying **digital arts** & creating **animations**  
-- 💻 Passionate about building **intuitive & responsive web applications**  
-- 🚀 Always exploring new **tech stacks, frameworks, and tools**  
+- 🎓 BS Computer Engineering Graduate from **Holy Angel University**
+- 🎨 Self-studying **digital arts** & creating **animations**
+- 💻 Passionate about building **intuitive & responsive web applications**
+- 🚀 Always exploring new **tech stacks, frameworks, and tools**
+- 🌱 Currently learning: **PHP and MySQL**
 
 ---
 
@@ -70,28 +71,25 @@
 ## 🧑‍💻 Programming Languages
 
 <p align="center">
-  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
   <img src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/main/Assets/python.gif" width="70" />
 
-  <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
   <img src="https://raw.githubusercontent.com/sammy9707/sammy9707/main/assets/cpp.gif" width="70" />
 
-  <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" />
   <img src="https://raw.githubusercontent.com/sammy9707/sammy9707/main/assets/database.gif" width="70" />
 </p>
 
 ---
 
-### 🔹 Python  
+### 🔹 Python
 Highly versatile for AI, automation, backend, and tooling.
 
-### 🔹 C++  
+### 🔹 C++
 Fast, powerful language for systems programming and performance-critical apps.
 
-### 🔹 SQL  
+### 🔹 SQL
 Used for database querying, management, and data analysis.
 
 ---
@@ -103,20 +101,27 @@ Used for database querying, management, and data analysis.
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freiderich&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Freiderich&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 Most Used Languages
+# 📬 Connect With Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-20%25-FFD43B?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-20%25-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-15%25-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-15%25-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-10%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <a href="https://www.linkedin.com/in/freiderich-peralta-95bbaa371/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:freiderichperalta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://freiderich-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -132,4 +137,4 @@ Used for database querying, management, and data analysis.
 
 ---
 
-<>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E0,100:00E1FF&height=120&section=footer" />
