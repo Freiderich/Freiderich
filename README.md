@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E1FF,100:FF00E0&height=200&section=header&text=Freiderich%20Peralta&fontSize=45&fontColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Freiderich;Bachelor+of+Science+in+Computer+Engineering+Student;Developer+%7C+Artist+%7C+Creator;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Freiderich;Bachelor+of+Science+in+Computer+Engineering+Graduate;Developer+%7C+Artist+%7C+Creator;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 ---
 
@@ -12,7 +12,7 @@
 
 # 👋 About Me
 
-- 🎓 Bachelor of Science in Computer Engineering student at **Holy Angel University**  
+- 🎓 BS Computer Engineering student from **Holy Angel University**  
 - 🎨 Self-studying **digital arts** & creating **animations**  
 - 💻 Passionate about building **intuitive & responsive web applications**  
 - 🚀 Always exploring new **tech stacks, frameworks, and tools**  
