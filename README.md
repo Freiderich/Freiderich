@@ -139,4 +139,4 @@ Used for database querying, management, and data analysis.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E0,100:00E1FF&height=120&section=footer" />
 
-Thanks for checking out my github!
+##Thanks for checking out my github!
