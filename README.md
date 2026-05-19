@@ -68,32 +68,6 @@
 
 ---
 
-## 🧑‍💻 Programming Languages
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/main/Assets/python.gif" width="70" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/sammy9707/sammy9707/main/assets/cpp.gif" width="70" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/sammy9707/sammy9707/main/assets/database.gif" width="70" />
-</p>
-
----
-
-### 🔹 Python
-Highly versatile for AI, automation, backend, and tooling.
-
-### 🔹 C++
-Fast, powerful language for systems programming and performance-critical apps.
-
-### 🔹 SQL
-Used for database querying, management, and data analysis.
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
