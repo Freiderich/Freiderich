@@ -1,41 +1,48 @@
+<!-- Deus Ex–style Profile README (Gold/Black + Icons) -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:f0b429&height=180&section=header&text=Freiderich%20Peralta&fontSize=40&fontColor=f7e7b5&desc=Designer%20|%20Web%20Developer%20|%20Exploring%20AI&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:f0b429&height=180&section=header&text=Freiderich%20Peralta&fontSize=40&fontColor=f7e7b5" />
 </p>
 
-<p align="center" style="letter-spacing: 0.2em; font-size: 12px;">
-  Turning ideas into applications
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=F0B429&center=true&vCenter=true&width=720&lines=Hello+World!+I'm+Freiderich;BS+Computer+Engineering+%7C+Holy+Angel+University;Designer+%7C+Web+Developer+%7C+Exploring+AI;Turning+ideas+into+applications" />
 </p>
 
 ---
 
-## About
-I’m a **Designer & Web Developer** exploring AI and building applications that feel intentional, usable, and fast.
+# 👋 About Me
+- 🎓 BS Computer Engineering Graduate from **Holy Angel University**
+- 🎨 Self-studying **digital arts** & creating **animations**
+- 💻 Passionate about building **intuitive & responsive web applications**
+- 🚀 Always exploring new **tech stacks, frameworks, and tools**
+- 🌱 Currently learning: **PHP and MySQL**
 
 ---
 
-## Core Stack
-<table align="center" style="border-collapse: collapse; border: 1px solid #f0b429; background: #0b0b0b; color: #f7e7b5;">
-  <tr>
-    <th style="padding: 10px 16px; border: 1px solid #f0b429; text-transform: uppercase; letter-spacing: 0.2em; font-size: 12px;">Backend</th>
-    <th style="padding: 10px 16px; border: 1px solid #f0b429; text-transform: uppercase; letter-spacing: 0.2em; font-size: 12px;">Frontend</th>
-    <th style="padding: 10px 16px; border: 1px solid #f0b429; text-transform: uppercase; letter-spacing: 0.2em; font-size: 12px;">Tools</th>
-  </tr>
-  <tr>
-    <td style="padding: 12px 16px; border: 1px solid #2a2216;">
-      PHP · MySQL · Django · Node.js
-    </td>
-    <td style="padding: 12px 16px; border: 1px solid #2a2216;">
-      HTML · CSS · JavaScript · Vite · Tailwind
-    </td>
-    <td style="padding: 12px 16px; border: 1px solid #2a2216;">
-      Git · VS Code · Figma · Adobe (PS / AI)
-    </td>
-  </tr>
-</table>
+# 💡 Tech & Tools I Use
+
+## 🖥️ Backend / Servers / Databases
+| PHP | MySQL | Django | Node.js |
+| --- | --- | --- | --- |
+| ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) |
 
 ---
 
-## Art Gallery
+## 🎨 Frontend Development / Styling
+| HTML | CSS | JavaScript | Vite | Tailwind |
+| --- | --- | --- | --- | --- |
+| ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![Vite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg) | <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-dark.svg" width="40"> |
+
+---
+
+## 🛠️ Frameworks / Libraries
+| React | Django | Node.js | Vercel |
+| --- | --- | --- | --- |
+| ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) | ![Node](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![Vercel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg) |
+
+---
+
+## 🎨 Art Gallery
 <p align="center">
   <img src="https://raw.githubusercontent.com/Freiderich/Freiderich/main/images/Invincible.jpg" width="190" />
   <img src="https://raw.githubusercontent.com/Freiderich/Freiderich/main/images/Lucifer.jpg" width="190" />
@@ -50,7 +57,7 @@ I’m a **Designer & Web Developer** exploring AI and building applications that
 
 ---
 
-## GitHub Signals
+## 📊 GitHub Signals
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Freiderich&theme=dark&background=0b0b0b&ring=f0b429&fire=f0b429&currStreakLabel=f7e7b5&sideLabels=f7e7b5&dates=8d7b54&stroke=2a2216&border=2a2216" />
 </p>
@@ -63,7 +70,7 @@ I’m a **Designer & Web Developer** exploring AI and building applications that
 
 ---
 
-## Connect
+## 📬 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/freiderich-peralta-95bbaa371/">
     <img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=f0b429" />
