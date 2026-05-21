@@ -1,33 +1,37 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:f0b429&height=180&section=header&text=Freiderich%20Peralta&fontSize=40&fontColor=f7e7b5&desc=Secure%20Systems%20|%20Creative%20Builds&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:f0b429&height=180&section=header&text=Freiderich%20Peralta&fontSize=40&fontColor=f7e7b5&desc=Designer%20|%20Web%20Developer%20|%20Exploring%20AI&descAlignY=62" />
 </p>
 
-<h3 align="center" style="letter-spacing: 0.2em;">NEXORA ACCESS LOG</h3>
 <p align="center" style="letter-spacing: 0.2em; font-size: 12px;">
-  // ENGINEERING · DESIGN · DELIVERY //
+  Turning ideas into applications
 </p>
 
 ---
 
 ## About
-I’m a Computer Engineering graduate with a focus on clean, reliable systems and human‑centered interfaces. I enjoy turning complex ideas into working products with strong visual identity.
-
-**Current focus**
-- Backend fundamentals (PHP, MySQL)
-- Django systems and APIs
-- UI/UX for modern web apps
+I’m a **Designer & Web Developer** exploring AI and building applications that feel intentional, usable, and fast.
 
 ---
 
 ## Core Stack
-**Backend**
-- PHP · MySQL · Django · Node.js
-
-**Frontend**
-- HTML · CSS · JavaScript · Vite · Tailwind
-
-**Tools**
-- Git · VS Code · Figma · Adobe (PS / AI)
+<table align="center" style="border-collapse: collapse; border: 1px solid #f0b429; background: #0b0b0b; color: #f7e7b5;">
+  <tr>
+    <th style="padding: 10px 16px; border: 1px solid #f0b429; text-transform: uppercase; letter-spacing: 0.2em; font-size: 12px;">Backend</th>
+    <th style="padding: 10px 16px; border: 1px solid #f0b429; text-transform: uppercase; letter-spacing: 0.2em; font-size: 12px;">Frontend</th>
+    <th style="padding: 10px 16px; border: 1px solid #f0b429; text-transform: uppercase; letter-spacing: 0.2em; font-size: 12px;">Tools</th>
+  </tr>
+  <tr>
+    <td style="padding: 12px 16px; border: 1px solid #2a2216;">
+      PHP · MySQL · Django · Node.js
+    </td>
+    <td style="padding: 12px 16px; border: 1px solid #2a2216;">
+      HTML · CSS · JavaScript · Vite · Tailwind
+    </td>
+    <td style="padding: 12px 16px; border: 1px solid #2a2216;">
+      Git · VS Code · Figma · Adobe (PS / AI)
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -73,10 +77,6 @@ I’m a Computer Engineering graduate with a focus on clean, reliable systems an
 </p>
 
 ---
-
-<p align="center" style="letter-spacing: 0.3em; font-size: 12px;">
-  // END OF LINE //
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0b429,100:0b0b0b&height=120&section=footer" />
