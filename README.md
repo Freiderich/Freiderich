@@ -19,26 +19,34 @@
 
 ---
 
-# 💡 Tech & Tools I Use
+## 💡 Skills
 
-## 🖥️ Backend / Servers / Databases
-| PHP | MySQL | Django | Node.js |
-| --- | --- | --- | --- |
-| ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) |
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0b0b?style=flat-square&logo=javascript&logoColor=f0b429)
+![Python](https://img.shields.io/badge/Python-0b0b0b?style=flat-square&logo=python&logoColor=f0b429)
+![PHP](https://img.shields.io/badge/PHP-0b0b0b?style=flat-square&logo=php&logoColor=f0b429)
+![C++](https://img.shields.io/badge/C%2B%2B-0b0b0b?style=flat-square&logo=c%2B%2B&logoColor=f0b429)
 
----
+### Frontend Development
+![HTML](https://img.shields.io/badge/HTML5-0b0b0b?style=flat-square&logo=html5&logoColor=f0b429)
+![CSS](https://img.shields.io/badge/CSS3-0b0b0b?style=flat-square&logo=css3&logoColor=f0b429)
+![Tailwind](https://img.shields.io/badge/Tailwind-0b0b0b?style=flat-square&logo=tailwindcss&logoColor=f0b429)
+![Vite](https://img.shields.io/badge/Vite-0b0b0b?style=flat-square&logo=vite&logoColor=f0b429)
+![React](https://img.shields.io/badge/React-0b0b0b?style=flat-square&logo=react&logoColor=f0b429)
 
-## 🎨 Frontend Development / Styling
-| HTML | CSS | JavaScript | Vite | Tailwind |
-| --- | --- | --- | --- | --- |
-| ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![Vite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg) | <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-dark.svg" width="40"> |
+### Backend & Frameworks
+![Django](https://img.shields.io/badge/Django-0b0b0b?style=flat-square&logo=django&logoColor=f0b429)
+![Node.js](https://img.shields.io/badge/Node.js-0b0b0b?style=flat-square&logo=node.js&logoColor=f0b429)
 
----
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-0b0b0b?style=flat-square&logo=mysql&logoColor=f0b429)
+![SQLite](https://img.shields.io/badge/SQLite-0b0b0b?style=flat-square&logo=sqlite&logoColor=f0b429)
 
-## 🛠️ Frameworks / Libraries
-| React | Django | Node.js | Vercel |
-| --- | --- | --- | --- |
-| ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) | ![Node](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![Vercel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg) |
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-0b0b0b?style=flat-square&logo=git&logoColor=f0b429)
+![GitHub](https://img.shields.io/badge/GitHub-0b0b0b?style=flat-square&logo=github&logoColor=f0b429)
+![VSCode](https://img.shields.io/badge/VS%20Code-0b0b0b?style=flat-square&logo=visualstudiocode&logoColor=f0b429)
+![Vercel](https://img.shields.io/badge/Vercel-0b0b0b?style=flat-square&logo=vercel&logoColor=f0b429)
 
 ---
 
