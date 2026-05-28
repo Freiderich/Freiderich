@@ -98,4 +98,4 @@
 </p>
 <!-- Wow cool code -->
 
-<p text-align="Center"> Machina</p>
+<p align="Center"> Machina</p>
