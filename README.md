@@ -15,7 +15,7 @@
 - 🎨 Self-studying **digital arts** & creating **animations**
 - 💻 Passionate about building **intuitive & responsive web applications**
 - 🚀 Always exploring new **tech stacks, frameworks, and tools**
-- 🌱 Currently learning: **PHP and MySQL**
+- 🌱 Currently learning: **Microsoft Azure**
 
 ---
 
@@ -97,4 +97,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0b429,100:0b0b0b&height=120&section=footer" />
 </p>
 <!-- Wow cool code -->
-<del>Freiderich S. Peralta</del>
+<del><u>Freiderich S. Peralta</u></del>
