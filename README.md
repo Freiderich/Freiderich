@@ -19,6 +19,11 @@
 
 ---
 
+# 📚 Important
+- Studying Introduction to Cloud Infrastructure in Microsoft Learn
+- Upcoming Test
+
+---
 ## 💡 Skills
 
 ### Programming Languages
