@@ -21,8 +21,7 @@
 
 # 📚 Important
 - Studying Introduction to Cloud Infrastructure in Microsoft Learn
-- Upcoming Test
-
+- Finished Virutal training
 ---
 ## 💡 Skills
 
