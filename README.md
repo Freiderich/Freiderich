@@ -101,4 +101,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0b429,100:0b0b0b&height=120&section=footer" />
 </p>
 <!-- Wow cool code -->
-<p>this is hard</p>
