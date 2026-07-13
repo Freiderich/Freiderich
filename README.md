@@ -19,10 +19,6 @@
 
 ---
 
-# 📚 Important
-- Studying Introduction to Cloud Infrastructure in Microsoft Learn
-- Finished Virutal training
----
 ## 💡 Skills
 
 ### Programming Languages
