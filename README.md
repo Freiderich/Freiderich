@@ -15,7 +15,6 @@
 - 🎨 Self-studying **digital arts** & creating **animations**
 - 💻 Passionate about building **intuitive & responsive web applications**
 - 🚀 Always exploring new **tech stacks, frameworks, and tools**
-- 🌱 Currently learning: **Microsoft Azure**
 
 ---
 
